@@ -1,4 +1,4 @@
-import { Table } from './scripts/table';
+import { Table } from './scripts';
 import { dataService } from './services';
 import './styles/main.css';
 
